@@ -1,5 +1,8 @@
 # 👋 Hello, I'm Parth Mandhare
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Parthmandhare)
+
+
 ### 🚀 Recent IT Graduate | Aspiring Full-Stack Developer | AWS Learner
 
 - 📍 Nagpur, Maharashtra, India
